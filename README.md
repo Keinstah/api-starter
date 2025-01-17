@@ -5,7 +5,7 @@
 - Sanctum with API only
 - Sail with SSL
 - Laravel Query Builder by Spatie
-- Laravel Permission by Spatie
+- Laravel Settings by Spatie
 
 
 ### Requirements
